@@ -1,4 +1,4 @@
 # project-demo
 My first git repository
 <br>
-Author ~kbarbayya
+Author ~kbarbayya (profile)
